@@ -1,0 +1,11 @@
+Html, body {
+    text-align: Center;
+    font-family: Lobster, Helvetica, sans-serif;
+}
+
+#title {
+    margin-top: 7vw;
+}
+
+#loopbtn {
+}
